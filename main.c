@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("I want to learn ICS well\n");
+    printf("I want to learn ICS very well\n");
 }
